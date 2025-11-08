@@ -52,3 +52,4 @@ data/
 
 # Streamlit
 .streamlit/secrets.toml
+./models
