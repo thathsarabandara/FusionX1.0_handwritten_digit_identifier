@@ -34,22 +34,9 @@ cd FusionX1.0_handwritten_digit_identifier
 
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt
+chmod +x quick_start.sh
+./quick_start.sh
 ```
-
-### Running the Jupyter Notebook
-
-```bash
-jupyter notebook notebooks/knn_digit_classifier.ipynb
-```
-
-### Running the Demo Application
-
-```bash
-streamlit run app.py
-```
-
-The app will open in your browser at `http://localhost:8501`
 
 ## 📁 Project Structure
 
