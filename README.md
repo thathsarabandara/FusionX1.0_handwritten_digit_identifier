@@ -28,8 +28,8 @@ This repository contains:
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
-cd handwritten_digit_identifier
+git clone https://github.com/thathsarabandara/FusionX1.0_handwritten_digit_identifier.git
+cd FusionX1.0_handwritten_digit_identifier
 ```
 
 2. Install dependencies:
@@ -54,7 +54,7 @@ The app will open in your browser at `http://localhost:8501`
 ## 📁 Project Structure
 
 ```
-handwritten_digit_identifier/
+FusionX1.0_handwritten_digit_identifier/
 ├── app.py                          # Streamlit demo application
 ├── notebooks/
 │   └── knn_digit_classifier.ipynb  # Educational notebook
@@ -65,18 +65,6 @@ handwritten_digit_identifier/
 ├── requirements.txt                # Python dependencies
 └── README.md                       # This file
 ```
-
-## 🌐 Deploying to Streamlit Cloud (Free)
-
-1. Push this repository to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Sign in with GitHub
-4. Click "New app"
-5. Select your repository and branch
-6. Set main file path to `app.py`
-7. Click "Deploy"
-
-Your app will be live at `https://your-app-name.streamlit.app`
 
 ## 🎓 Educational Content
 
